@@ -72,8 +72,8 @@ Moreover, it provides a clearer omnichannel analytic so that you know the sales 
 
 ### <div id="ochats-quick-links">Quick Links</div>
 
-* [App](https://ochats.notebrains.com/)
-* [Admin](https://ochats.notebrains.com/admin-login/)
+* [App](https://ochats.notebrains.com/){:target="_blank" rel="noopener"}
+* [Admin](https://ochats.notebrains.com/admin-login/){:target="_blank" rel="noopener"}
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
