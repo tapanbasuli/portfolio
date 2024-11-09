@@ -25,7 +25,7 @@
       </ul>
     </li>
     <li>
-      <a href="./projects/LAUNDRYKING.md">Laundry King</a>
+      <a href="./projects/LAUNDRY-KING.md">Laundry King</a>
       <ul>
         <li><a href="#laundryking-about-the-project">About The Project</a></li>
         <li><a href="#laundryking-screenshots">Screenshots</a></li>
