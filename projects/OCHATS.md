@@ -1,7 +1,7 @@
 <!-- OCHATS ABOUT THE PROJECT -->
-## <div id="ochats-project">oChats</div>
+## oChats
 
-### <div id="ochats-about-the-project">About The Project</div>
+### About The Project
 
 oChats.io is an omnichannel chat system which allows you to manage all of your business communication channels from various platforms such as WhatsApp, Telegram, Facebook Messenger and more in 1 platform. It allows you to perform a 2-communication with your prospects/customers.
 
@@ -10,7 +10,7 @@ Moreover, it provides a clearer omnichannel analytic so that you know the sales 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-### <div id="ochats-screenshots">Screenshots</div>
+### Screenshots
 
 #### Dashboard
 ![image](https://github.com/user-attachments/assets/ed69a01f-2e15-4753-b75c-995982269e55)
@@ -60,7 +60,7 @@ Moreover, it provides a clearer omnichannel analytic so that you know the sales 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-### <div id="ochats-built-with">Built With</div>
+### Built With
 
 * [Laravel](https://laravel.com/)
 * [Livewire](https://laravel-livewire.com/)
@@ -72,8 +72,8 @@ Moreover, it provides a clearer omnichannel analytic so that you know the sales 
 
 ### <div id="ochats-quick-links">Quick Links</div>
 
-* [App](https://app.ochats.io/)
-* [Admin](https://app.ochats.io/admin-login/)
+* [App](https://ochats.notebrains.com/)
+* [Admin](https://ochats.notebrains.com/admin-login/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
