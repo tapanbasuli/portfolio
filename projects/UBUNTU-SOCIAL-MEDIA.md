@@ -74,6 +74,6 @@ ubuntu social media is a social networking platform that provides a platform for
 
 ### Quick Links
 
-* [App](https://ubuntu-social-media.notebrains.com/)
+* [App](https://ubuntu-social-media.notebrains.com/){:target="_blank" rel="noopener"}
 
 <p align="right">(<a href="#top">back to top</a>)</p>
