@@ -1,3 +1,5 @@
+<div id="top"></div>
+
 <!-- OCHATS ABOUT THE PROJECT -->
 ## oChats
 
