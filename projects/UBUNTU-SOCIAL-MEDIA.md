@@ -15,15 +15,24 @@ ubuntu social media is a social networking platform that provides a platform for
 ![image](https://github.com/user-attachments/assets/a4c726b4-01ae-48fc-8f92-ca55a83b2cd7)
 
 #### Profile
+* About
 ![image](https://github.com/user-attachments/assets/30b89e7a-7b53-492b-abfd-7c533f0d99bc)
+* Timeline
 ![image](https://github.com/user-attachments/assets/226efedf-d67a-49e5-8f8a-288c5929de7e)
+* Connections
 ![image](https://github.com/user-attachments/assets/9996917f-0d51-492a-98b2-7ccb5be19127)
+* Pages
 ![image](https://github.com/user-attachments/assets/99c9c65e-f2e5-4d03-ab20-ec6450863f81)
+* Groups
 ![image](https://github.com/user-attachments/assets/288593b8-50b3-4f87-b306-8681ea270473)
 ![image](https://github.com/user-attachments/assets/55a20f06-b9c6-48d6-93f0-22d2febe7ab4)
+* Events
 ![image](https://github.com/user-attachments/assets/a2054754-efcc-4822-81e0-0850b520e7dd)
+* Photo & Video
 ![image](https://github.com/user-attachments/assets/6ccf2685-c7d6-4319-acd8-6c4fcd694576)
+* Followers
 ![image](https://github.com/user-attachments/assets/bcc9da97-39a2-43d2-848d-254ce18b44c2)
+* Following
 ![image](https://github.com/user-attachments/assets/77ede50c-6178-470c-910a-50bbf3b53dcc)
 
 #### Search
