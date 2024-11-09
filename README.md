@@ -8,6 +8,7 @@
   <ol>
     <li>
       <a href="./projects/OCHATS">oChats</a>
+      [oChats](./projects/OCHATS.md)
       <ul>
         <li><a href="#about-the-project">About The Project</a></li>
         <li><a href="#screenshots">Screenshots</a></li>
