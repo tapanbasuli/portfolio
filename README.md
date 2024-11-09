@@ -25,7 +25,7 @@
       </ul>
     </li>
     <li>
-      <a href="#laundyking-project">Laundry King</a>
+      <a href="./projects/LAUNDRYKING.md">Laundry King</a>
       <ul>
         <li><a href="#laundryking-about-the-project">About The Project</a></li>
         <li><a href="#laundryking-screenshots">Screenshots</a></li>
@@ -34,7 +34,7 @@
       </ul>
     </li>
     <li>
-      <a href="#hylawallet-project">HYLA Wallet</a>
+      <a href="./projects/HYLA-WALLET.md">HYLA Wallet</a>
       <ul>
         <li><a href="#hylawallet-about-the-project">About The Project</a></li>
         <li><a href="#hylawallet-screenshots">Screenshots</a></li>
@@ -43,7 +43,7 @@
       </ul>
     </li>
     <li>
-      <a href="#ipay-project">iPay</a>
+      <a href="./projects/IPAY.md">iPay</a>
       <ul>
         <li><a href="#ipay-about-the-project">About The Project</a></li>
         <li><a href="#ipay-screenshots">Screenshots</a></li>
