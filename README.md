@@ -55,12 +55,11 @@
 </details>
 
 <!-- OCHATS ABOUT THE PROJECT -->
-## oChats
+## <div id="ochats-project">oChats</div>
 
-This project is created to learn and practice livewire; understand why it is created; and explore the power of LIVEWIRE!
+oChats.io is an omnichannel chat system which allows you to manage all of your business communication channels from various platforms such as WhatsApp, Telegram, Facebook Messenger and more in 1 platform. It allows you to perform a 2-communication with your prospects/customers.
 
-This project consists of Livewire table with sorting, search, perPage, and bulk delete functionalities.
-It is also integrated with Spatie Laravel permissions and Nprogress.
+Moreover, it provides a clearer omnichannel analytic so that you know the sales comes from which channel. In summary, it is an omnichannel chat & analytic system. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
