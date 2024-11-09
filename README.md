@@ -7,7 +7,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#ochats-project">oChats</a>
+      <a href="../projects/ochats#ochats-project">oChats</a>
       <ul>
         <li><a href="#about-the-project">About The Project</a></li>
         <li><a href="#screenshots">Screenshots</a></li>
