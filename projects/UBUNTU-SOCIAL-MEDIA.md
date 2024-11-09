@@ -2,7 +2,7 @@
 <!-- UBUNTU-SOCIAL-MEDIA ABOUT THE PROJECT -->
 ## Ubuntu Social Media
 
-### <div id="usm-about-the-project">About The Project</div>
+### About The Project
 
 ubuntu social media is a social networking platform that provides a platform for users to post / share content in walls, post / share moments and events, connect with others, engage in discussions, and other social cause activities and services. It will have a user-friendly interface, scalable architecture, and integration with various social media platforms for content sharing.
 
