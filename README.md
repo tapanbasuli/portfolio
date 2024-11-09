@@ -99,18 +99,18 @@ Moreover, it provides a clearer omnichannel analytic so that you know the sales 
 ![image](https://github.com/user-attachments/assets/ffeba0f4-329a-468a-9e62-13a291c77c83)
 
 #### Settings
-* Snippet
-![image](https://github.com/user-attachments/assets/d0b35e51-aa69-4328-adbd-3930ca372695)
-* Users
-![image](https://github.com/user-attachments/assets/e6fc9110-32b8-4261-a261-3394a247915a)
-* Contact Fields
-![image](https://github.com/user-attachments/assets/50352c50-1a8a-49d7-9607-7300167f773b)
-* Support
-![image](https://github.com/user-attachments/assets/792a1d7b-a5ad-493c-a67b-c9ad629c0ecf)
-* Tags
-![image](https://github.com/user-attachments/assets/2745bd77-f073-4d53-8c96-4aaee75de07f)
-* Business Hours
-![image](https://github.com/user-attachments/assets/c4b44e6e-08f3-448d-8547-f3124054f1c3)
+  * Snippet
+  ![image](https://github.com/user-attachments/assets/d0b35e51-aa69-4328-adbd-3930ca372695)
+  * Users
+  ![image](https://github.com/user-attachments/assets/e6fc9110-32b8-4261-a261-3394a247915a)
+  * Contact Fields
+  ![image](https://github.com/user-attachments/assets/50352c50-1a8a-49d7-9607-7300167f773b)
+  * Support
+  ![image](https://github.com/user-attachments/assets/792a1d7b-a5ad-493c-a67b-c9ad629c0ecf)
+  * Tags
+  ![image](https://github.com/user-attachments/assets/2745bd77-f073-4d53-8c96-4aaee75de07f)
+  * Business Hours
+  ![image](https://github.com/user-attachments/assets/c4b44e6e-08f3-448d-8547-f3124054f1c3)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
