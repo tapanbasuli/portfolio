@@ -7,7 +7,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="../projects/ochats#ochats-project">oChats</a>
+      <a href="./projects/OCHATS#ochats-project">oChats</a>
       <ul>
         <li><a href="#about-the-project">About The Project</a></li>
         <li><a href="#screenshots">Screenshots</a></li>
@@ -16,7 +16,7 @@
       </ul>
     </li>
     <li>
-      <a href="../projects/ubuntu-social-media#usm-project">Ubuntu Social Media</a>
+      <a href="./projects/UBUNTU-SOCIAL-MEDIA#usm-project">Ubuntu Social Media</a>
       <ul>
         <li><a href="#about-the-project">About The Project</a></li>
         <li><a href="#screenshots">Screenshots</a></li>
