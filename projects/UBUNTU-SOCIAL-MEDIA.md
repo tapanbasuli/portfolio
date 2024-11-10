@@ -1,5 +1,21 @@
 <div id="top"></div>
 
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="./projects/UBUNTU-SOCIAL-MEDIA">Ubuntu Social Media</a>
+      <ul>
+        <li><a href="#about-the-project">About The Project</a></li>
+        <li><a href="#screenshots">Screenshots</a></li>
+        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#credentials">Credentials</a></li>
+      </ul>
+    </li>
+  </ol>
+</details>
+
 <!-- UBUNTU-SOCIAL-MEDIA ABOUT THE PROJECT -->
 ## Ubuntu Social Media
 
