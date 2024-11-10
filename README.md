@@ -1,7 +1,3 @@
-layout: page
-title: "Portfolio"
-permalink: /portfolio
-
 # Portfolio
 
 <div id="top"></div>
