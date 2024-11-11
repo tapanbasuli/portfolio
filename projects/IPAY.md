@@ -10,7 +10,7 @@
         <li><a href="#about-the-project">About The Project</a></li>
         <li><a href="#screenshots">Screenshots</a></li>
         <li><a href="#built-with">Built With</a></li>
-        <li><a href="#credentials">Credentials</a></li>
+        <li><a href="#quick-links">Credentials</a></li>
       </ul>
     </li>
   </ol>
